@@ -31,7 +31,7 @@ uvicorn app:app --reload --host 0.0.0.0 --port 8000
 The server will start at: **http://localhost:8000**
 
 - API Documentation (Swagger): http://localhost:8000/docs
-- Alternative docs: http://localhost:8000/redoc
+
 
 **Verify it's running**: Open http://localhost:8000/docs in your browser
 

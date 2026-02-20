@@ -45,6 +45,7 @@ git push -u origin main
    - **Name**: `shopapp-frontend`
    - **Root Directory**: `client`
    - **Build Command**: `npm install && npm run build`
+   
    - **Publish Directory**: `build`
 4. **Environment Variables**:
    - `REACT_APP_API_URL` = `https://shopapp-backend.onrender.com` (from step B)
